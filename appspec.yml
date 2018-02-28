@@ -2,5 +2,5 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/
+    destination: /home/oni_yana/src/aws_test
 #hooks:
