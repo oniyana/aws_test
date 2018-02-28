@@ -2,5 +2,5 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/oni_yana/src
+    destination: /var/www/
 #hooks:
